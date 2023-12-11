@@ -62,7 +62,7 @@ export default function App() {
             </Button>
           </Box>
           <Box justifyContent="space-around" pt={30}>
-            <Text style={styles.result} color='$primary600'>Resultado:</Text>
+            <Text style={styles.result} color='$primary600'>Resultado</Text>
             <Text style={styles.result} fontWeight="$bold">{resultado}</Text>
           </Box>
         </FormControl>
